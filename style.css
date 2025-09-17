@@ -1,0 +1,12 @@
+body {
+    background-color: darkturquoise;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: deepskyblue;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* alteramos a cor do fundo*/
+/* meche no estilo das letras*/
